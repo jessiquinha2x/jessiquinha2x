@@ -4,3 +4,5 @@ Meu nome é Jéssica
 - Estou esutudando na Alura;
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço pasra minha organização e compartilhamento dos meus desenvolvidos
+
+https://media.tenor.com/ZQndYO4NwBcAAAAM/gojo-satoru.gif
